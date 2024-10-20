@@ -1,6 +1,11 @@
 # Learn the Hard Way - Google Sheets
 
 ## 4 common data types in Google Sheets
+- TEXT
+- NUMBER
+- DATE
+- LOGICAL 
+
 - Text: ISTEXT()  
 - Number: ISNUMBER()  
 - Date: ISDATE()  
@@ -10,13 +15,6 @@
 - Check formula: ISFORMULA()  
 - Check Blank cell: ISBLANK()
 
-  # Learn the Hard Way Microsoft Excel
-
-4 types of data:
-- TEXT
-- NUMBER
-- DATE
-- LOGICAL 
 
 ISNUMBER(cell) :   
 ISTEXT(cell) :  
@@ -29,8 +27,9 @@ T() : Convert to TEXT
 TO_PERCENT() :  
 CONVERT() :  
 
-COUNTA stands for Count All (count all non-blank cells)  
-COUNT: count non-blank number/date cells  
+COUNT: count non-blank numeric data type (number,date cells)  
+COUNTA: stands for Count All (anything) data types (count all non-blank cells)  
+COUNTBLANK: count empty cells and empty strings  
 
 Logical functions  
 NOT()  
