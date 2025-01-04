@@ -47,3 +47,21 @@ ISERROR()
 ISERR()  
 
 
+## Text data
+PROPER()  
+UPPER()  
+LOWER()  
+CONCATENATE()  
+
+Index starts at 1.  
+LEN()  
+LEFT()  
+RIGHT()  
+SEARCH()  
+SUBSTITUDE()  
+
+
+## Courses
+- [Coursera: Google Sheets](https://www.coursera.org/learn/google-sheets)  
+- [Coursera: Google Sheets - Advanced Topics](https://www.coursera.org/learn/google-sheets---advanced-topics)
+- [DataCamp: Data Analysis in Google Sheets](https://campus.datacamp.com/courses/data-analysis-in-google-sheets/)  
