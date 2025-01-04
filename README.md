@@ -9,3 +9,27 @@
 - Check text is URL: ISURL()  
 - Check formula: ISFORMULA()  
 - Check Blank cell: ISBLANK()  
+
+
+
+## Pivot Tables
+[Pivot Tables in Google Sheets](https://campus.datacamp.com/courses/pivot-tables-in-google-sheets/)
+
+3 essential component of a pivot table: Row, Column, Value  
+
+
+
+## 
+SORT()  
+
+DATEDIF()
+
+
+## Cleaning text
+PROPER(text_to_capitalize)  
+UPPER()  
+LOWER()  
+CONCATENATE()  
+
+
+
